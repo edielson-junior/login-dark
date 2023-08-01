@@ -11,7 +11,7 @@ Programa exclusivo para login com tema Dark. <br/></p>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/cover.jpg" width="100%">
+  <img alt="PROJETODARK" src=".github/cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
